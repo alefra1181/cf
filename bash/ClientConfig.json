@@ -4,5 +4,5 @@
 	"port": "443",
 	"path": "vmess",
 	"serverName": "glitch.ahmadrezaamini-93.workers.dev",
-	"subnetsList": "https://raw.githubusercontent.com/MortezaBashsiz/CFScanner/main/bash/cf.local.iplist"
+	"subnetsList": "https://raw.githubusercontent.com/alefra1181/cf/main/bash/cf.local.iplist"
 }
