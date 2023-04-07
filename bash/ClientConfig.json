@@ -1,0 +1,8 @@
+{
+	"id": "d153bd69-4a10-4084-860f-3f462b09673a",
+	"host": "glitch.ahmadrezaamini-93.workers.dev",
+	"port": "443",
+	"path": "vmess",
+	"serverName": "glitch.ahmadrezaamini-93.workers.dev",
+	"subnetsList": "https://raw.githubusercontent.com/MortezaBashsiz/CFScanner/main/bash/cf.local.iplist"
+}
